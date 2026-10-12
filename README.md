@@ -14,4 +14,4 @@ Python, pandas, SQLite, Streamlit, Plotly
 
 ## Запуск
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run marketplace.py
